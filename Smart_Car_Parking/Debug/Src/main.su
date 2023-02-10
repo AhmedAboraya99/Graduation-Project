@@ -1,0 +1,12 @@
+main.c:39:6:WAIT_ms	24	static
+main.c:97:6:Clock_Init	4	static
+main.c:103:5:main	16	static
+main.c:229:6:RFID_CARD_Enter_CallBack	16	static
+main.c:238:6:RFID_CARD_EXIT_CallBack	16	static
+main.c:250:6:LCD_Welcome	8	static
+main.c:262:6:LCD_Display_Empty_Slots	8	static
+main.c:272:6:LEDs_Init	16	static
+main.c:281:6:LEDs_Control	16	static
+main.c:295:6:PIRs_Init	16	static
+main.c:313:6:Store_IDs_From_Admin	24	static
+main.c:328:5:a2i	32	static

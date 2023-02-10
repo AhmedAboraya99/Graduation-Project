@@ -1,0 +1,4 @@
+Servo_Motor.c:17:6:Servo1_Entry_Gate_Init	16	static
+Servo_Motor.c:28:6:Servo1_Entry_Gate	16	static
+Servo_Motor.c:49:6:Servo2_Exit_Gate_Init	16	static
+Servo_Motor.c:60:6:Servo2_Exit_Gate	16	static
